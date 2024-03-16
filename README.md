@@ -34,9 +34,11 @@ We have a Google Play Store dataset containing information about different apps,
 - Git clone the repository on your local machine or download it.
 - Install requirements using `pip install -r requirements/base.txt`.
 
-## Dataset Usage
+## Usage
 
-- You can utilize the dataset located at [data](./data/googlestore.csv).
+- You can utilize the dataset located at [data folder](./data/googlestore.csv).
+- You can utilize the database located at [db folder](./db/googlestore.db).
+- You can utilize the powerpoint located at [ppt folder](./ppt/apache-spark.pptx).
 
 ## License Information
 
