@@ -13,7 +13,7 @@ In this presentation, we will delve into Spark and its evaluation, exploring why
 - [Medium Article: Why Do You Need to Use Apache Spark for Your Big Data Project?](https://igorizraylevych.medium.com/why-do-you-need-to-use-apache-spark-for-your-big-data-project-123e187a4d0)
 - [Turing Knowledge Base: What is Apache Spark?](https://www.turing.com/kb/what-is-apache-spark#evolution-of-apache-spark)
 - [Apache Spark Tutorial: Features Overview](https://www.knowledgehut.com/tutorials/apache-spark-tutorial/apache-spark-features)
-- [Nootbook simplify](https://onedrive.live.com/redir?resid=3EF4BEDA8612D73F%21150&authkey=%21AJb4z-g1opC5eig&page=View&wd=target%28Batch%20Processing.one%7C0db9fb02-1c5e-4002-8c20-6b0a1dd115ea%2FApache%20Spark%7Ca2790d88-4c04-4c87-9c36-464fbe5e86d5%2F%29&wdorigin=NavigationUrl)
+- [notebook simplify documentation](https://onedrive.live.com/redir?resid=3EF4BEDA8612D73F%21150&authkey=%21AJb4z-g1opC5eig&page=View&wd=target%28Batch%20Processing.one%7C0db9fb02-1c5e-4002-8c20-6b0a1dd115ea%2FApache%20Spark%7Ca2790d88-4c04-4c87-9c36-464fbe5e86d5%2F%29&wdorigin=NavigationUrl)
 
 ## YouTube Courses
 
